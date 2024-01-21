@@ -1,0 +1,1 @@
+const pokeList = document.querySelector("#listaPokemon")
